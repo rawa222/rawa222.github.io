@@ -1,0 +1,107 @@
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: lime;
+}
+
+body
+ {
+ 	background-color: black;  
+ }
+
+.child_1
+ {
+ 	margin-left: 400px;
+  position: fixed;
+ }
+
+
+
+h1
+ {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	display: inline-block;
+	width: auto;
+ }
+
+.text
+ {
+	background-color: purple;
+	color: white;
+	height: 25px;
+	font-size: 20px;
+
+ }
+
+*
+ {
+ 	font-family: "Comic Sans MS", cursive, sans-serif;
+ }
+
+ .h1
+  {
+  	font-size: 50px;
+	color: white;
+	text-align: center;
+	margin-left: 500px;
+	margin-top: 200px;
+  }
+
+  .h1_1
+   {
+   	font-size: 50px;
+   	color: purple;
+   }
+
+   .g
+    {
+    	font-size: 50px;
+    	color: purple;
+		text-align: center;
+    }
+
+   img
+     {
+      width: 1655px;
+      
+     }
+
+p
+  {
+    color: grey;
+    font-size: 16px;
+  }
+  
+  h3
+   {
+    color: white;
+    display: inline-block;
+   }
+
+   iframe
+    {
+      height: 800px;
+      width: 1650px;
+    }
+
+    .child_10
+     {
+      margin-left: 500px;
+     }
+

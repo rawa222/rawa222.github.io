@@ -1,0 +1,188 @@
+ul#menu {
+    padding: 0;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: lime;
+}
+
+body
+ {
+ 	background-image: url(../image/1.jpg);  
+ }
+
+.child_1
+ {
+ 	margin-left: 400px;
+  position: fixed;
+  display: block;
+ }
+
+ .parent
+  {
+
+  }
+
+h1
+ {
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	width: auto;
+  display: inline-block;
+ }
+
+.text
+ {
+	background-color: purple;
+	color: white;
+	height: 25px;
+	font-size: 20px;
+
+ }
+
+*
+ {
+ 	font-family: "Comic Sans MS", cursive, sans-serif;
+ }
+
+ .h1
+  {
+  	font-size: 50px;
+	color: white;
+	text-align: center;
+	margin-left: 500px;
+	margin-top: 200px;
+  }
+
+  .h1_1
+   {
+   	font-size: 50px;
+   	color: purple;
+   }
+
+   .g
+    {
+    	font-size: 50px;
+    	color: purple;
+		  text-align: center;
+    }
+
+    h3
+     {
+     	color: white;
+     	font-size: 50px;
+     	display: inline-block;
+     }
+
+.a1
+ {
+ 	font-size: 50px;	
+	color: white;
+
+ }
+
+ .h3
+  {
+  	float: right;
+  	font-size: 25px;
+  }
+.h4
+ {
+ 	color: purple;
+ }
+
+ p
+  {
+  	color: white;
+  	font-size: 20px;
+  }
+
+  .h31
+   {
+   	font-size: 35px;
+	color: white;
+   }
+
+   .shop
+    {
+      margin-left: 675px;
+    }
+
+.arajin
+ {
+    height: 700px;
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 222px;
+    border: 1px solid white;
+    display: inline-block;
+ }
+
+ .erkrord
+  {
+    height: 700px;
+    width: 300px;
+    border: 1px solid white;
+    display: inline-block;
+    margin-right: 222px;
+  }
+
+
+ img
+  {
+    width: 300px;
+    height: 200px;
+  }
+
+  .ufo
+   {
+      font-size: 30px;
+      margin-left: 120px;
+   }
+
+.masin
+ {
+  font-size: 18.7px;
+  text-align: center;
+ }
+
+.arjeq
+ {
+  color: lime;
+  text-align: center;
+ }
+
+ .jetpack
+  {
+    font-size: 30px;
+    margin-left: 90px;
+  }
+
+
+
+.errord
+ {
+    height: 700px;
+    width: 300px;
+    border: 1px solid white;
+    display: inline-block;
+ }
+
+ .rocket
+   {
+      font-size: 30px;
+      margin-left: 105px;
+   }
